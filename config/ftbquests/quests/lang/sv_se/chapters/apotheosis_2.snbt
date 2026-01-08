@@ -1,0 +1,42 @@
+{
+	quest.0D6D45DBA64E612D.quest_desc: ["Maximal spawnfördröjning är hur lång tid det kan ta innan mobs spawnas. Precis som Minimum kan den vara så låg som 20 till så hög som 32 767. Varje Klocka modifierar spawners hastighet med 10. Hastigheten uttrycks i ticks där 20 ticks motsvarar 1 sekund. Så den snabbaste spawnfördröjningen skulle vara 1 sekund mellan varje."]
+	quest.0D6D45DBA64E612D.title: "Maximal Spawnfördröjning"
+	quest.0E02CE4469FCA4C9.quest_desc: ["Redstone-aktivering ger din spawner en av/på-knapp. Utan Redstone Power kommer den inte spawnas."]
+	quest.0E02CE4469FCA4C9.title: "Redstone Aktiv"
+	quest.0F89BFD4A3F63A48.quest_desc: ["Vissa mobs (mest monster) behöver vissa ljusnivåer för att spawnas. Fientliga behöver lägre nivåer och passiva högre. Att använda en Soul Lantern gör att du aldrig behöver oroa dig för ljusnivåer eftersom den ignorerar dem! Detta ignorerar dock inte andra krav för spawn som att boskapsdjur behöver gräs."]
+	quest.0F89BFD4A3F63A48.title: "Ignorera Ljus"
+	quest.167E1474644C9908.quest_desc: ["Kvarts gör motsatsen för Spawner jämfört med vad den andra saken gör. Med Kvarts i offhand och den andra Spawner-modifieringsföremålet i main-hand gör den motsatsen av dess roll. Med Kvarts och Blaze Rods istället för att öka Spawn Range minskar den den. Med Kvarts och Ghast Tears minskar den Max Entities."]
+	quest.167E1474644C9908.title: "Motsatsdag"
+	quest.186593EBCE3FE8D8.quest_desc: ["Spawn Range är området där mobs kan spawnas. Ju större område, desto mer plats för dem. Ju mindre område, desto billigare fabrik."]
+	quest.186593EBCE3FE8D8.title: "Spawn Range"
+	quest.18E0F5A78F696FA3.quest_desc: ["Echo shards ger en specialeffekt på spawnern. Alla mobs som spawnas får multiplicerat loot som de droppar."]
+	quest.18E0F5A78F696FA3.title: "Ekande"
+	quest.1AD87CB3226ED224.quest_desc: ["Wool gör bara en sak för spawnern och det är att tysta den. Ogillar du de dumma spawner-ljuden? Använd då Wool! Valfri färg, trådantal eller design!"]
+	quest.1AD87CB3226ED224.title: "Tysta ner dig, du väcker mobs!"
+	quest.2FE4B7B70D90A455.quest_desc: ["Detta uppdrag har skapats av &6AllTheMods Staff&r, eller en &2Community bidragsgivare&r för användning i AllTheMods Modpacks.\\n\\nEftersom alla &6AllTheMods&r paket är licensierade under &eAll Rights Reserved&r, får detta uppdrag inte användas i offentliga paket som inte släppts av &6AllTheMods Team&r utan uttryckligt tillstånd.\\n\\nDetta uppdrag är avsiktligt dolt, om du ser detta är du i redigeringsläge."]
+	quest.30EB438C66324213.quest_desc: ["En Nether Star gör vad Prismarine Shards gör men mycket bättre. Spelare behöver inte längre vara nära spawnern. Så länge dess chunk är laddad kommer den att spawnas."]
+	quest.30EB438C66324213.title: "Ignorera Spelare"
+	quest.310969B8FE0A94DE.quest_desc: ["En annan speländring Apotheosis för med sig är Spawners. Kommer du ihåg att kunna bryta spawners med Silk Touch? Det är tillbaka tack vare Apotheosis! Det finns också många nya modifieringar du kan lägga till på Spawners genom att högerklicka på något av dessa föremål."]
+	quest.310969B8FE0A94DE.title: "Apothic Spawners"
+	quest.3E2A411FF5B4B0E7.quest_desc: ["Aktiveringsområde är hur nära spelaren (du) måste vara spawnern för att den ska fungera. Lägst är 1 block bort och högst är 48 blocks radie."]
+	quest.3E2A411FF5B4B0E7.title: "Aktiveringsområde"
+	quest.40096ED0B04C3EC5.quest_desc: ["Måste-ha för alla Spawners. När det står att den ignorerar alla villkor, betyder det de flesta. Ignorerar ljusnivåer, block som krävs för spawn och biomer. Rymdkrav behövs fortfarande, t.ex. slimes behöver 3x3 område för att spawnas, samma gäller för spelare som behöver vara nära."]
+	quest.40096ED0B04C3EC5.title: "Ignorera Alla Villkor"
+	quest.42D7C8CD8E6F5CD7.quest_desc: ["Genom att använda en Chorus Fruit på en Spawner suger du ut själarna ur mobs som ska spawnas, och lämnar bara ett ihåligt skal av vad de brukade vara. Mobs förlorar all AI och gör i princip som en armor stand. De kan inte attackera dig, teleportera eller röra sig själva. De sitter där redo att dödas, hur spännande!"]
+	quest.42D7C8CD8E6F5CD7.title: "Ingen AI"
+	quest.4D07B0A4A2E77CDA.quest_desc: ["Max entities är antalet mobs som kan spawnas av en spawner och behållas. Om det endast är 6 max entities när 6 mobs redan spawnats, spawnas inga fler förrän de är döda eller flyttade. Varje Ghast Tear ändrar med 2 Entities upp eller ner. Max 16 Entities och Min 1."]
+	quest.4D07B0A4A2E77CDA.title: "Max Entities"
+	quest.4F7F8F4ED1CA0550.quest_desc: ["En Campfire använd på spawnern får mobs att spawnas i eld. Perfekt för en fin Steak."]
+	quest.4F7F8F4ED1CA0550.title: "Brinnande"
+	quest.6A497B063CF32A5C.quest_desc: ["Ett Fermented Spider's Eye kan användas för att öka antalet mobs som KAN spawnas från en spawner. De spawnade mobs är slumpmässiga med ett maxantal bestämt av siffran. Det ökar eller minskar med 1 per öga till max 16."]
+	quest.6A497B063CF32A5C.title: "Spawn Count"
+	quest.6F71FD826C29C31A.quest_desc: ["Detta kan vara nytt för de som återvänder från tidigare versioner. Genom att använda ett turtle egg på en spawner spawnas endast baby-versioner av mobs i den. Detta fungerar endast med Vanilla-babys, inte moddade."]
+	quest.6F71FD826C29C31A.title: "Ungdomlig"
+	quest.7A9AE63998BB41FF.quest_desc: ["För att bestämma när spawnern spawnar, väljs ett slumpmässigt nummer mellan maximal och minimal spawnfördröjning. Minimum kan vara så låg som 20 till så hög som 32 767. Varje bit socker ändrar min delay upp eller ner med 10."]
+	quest.7A9AE63998BB41FF.title: "Minimal Spawnfördröjning"
+	quest.7F6B66566C211735.quest_desc: ["Dripstone använd på spawnern minskar den spawnade mobsens maxhälsa. Detta kan minska deras hälsa till så lågt som 20%"]
+	quest.7F6B66566C211735.title: "Hälsa"
+	task.39702880D9133E3E.title: "Ull"
+	task.3B219688DA1CF9C8.title: "AllaRättigheterFörbehållna"
+	task.73B56F2139A98F77.title: "AllaRättigheterFörbehållna"
+}
