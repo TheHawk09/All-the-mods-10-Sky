@@ -37,6 +37,6 @@
 	quest.7F6B66566C211735.quest_desc: ["Dripstone använd på spawnern minskar den spawnade mobsens maxhälsa. Detta kan minska deras hälsa till så lågt som 20%"]
 	quest.7F6B66566C211735.title: "Hälsa"
 	task.39702880D9133E3E.title: "Ull"
-	task.3B219688DA1CF9C8.title: "AllaRättigheterFörbehållna"
-	task.73B56F2139A98F77.title: "AllaRättigheterFörbehållna"
+	task.3B219688DA1CF9C8.title: "AllaRättigheterReserverade"
+	task.73B56F2139A98F77.title: "AllaRättigheterReserverade"
 }
