@@ -36,6 +36,7 @@
 	quest.16FA120455D36B58.quest_subtitle: "Laranja + Mangue"
 	quest.1815661333016983.quest_subtitle: "Tamareira + Cerejeira Negra"
 	quest.18601369F049D10D.quest_subtitle: "Ébano do Ceilão + Murta de Crepe Roxa"
+	quest.18A2F6BA778D96B1.quest_desc: ["Esses itens podem ser encontrados em baús dentro dos Bastiões."]
 	quest.18A2F6BA778D96B1.quest_subtitle: "Dragão de Socotra + Cristais Flamejantes + Corante Preto"
 	quest.18D4BE3AF7869DE2.quest_subtitle: "Ébano do Ceilão + Caqui"
 	quest.19C22C5B247F4D7D.quest_subtitle: "Ébano do Ceilão + Kapok"
@@ -50,7 +51,7 @@
 	quest.1F1B4948FCC14BB4.quest_subtitle: "Abeto Prateado + Abeto"
 	quest.20DDAC076A2479A8.quest_subtitle: "Espiral Roxa + Cereja Brilhante"
 	quest.21B8116BDADD7476.quest_subtitle: "Mamão + Cacau"
-	quest.22151D56616559CB.quest_desc: [" "]
+	quest.22151D56616559CB.quest_desc: ["Esses itens podem ser encontrados em baús dentro de Naufrágios."]
 	quest.22151D56616559CB.quest_subtitle: "Fruta Estelar + Estrelas do Nether + Corante Azul"
 	quest.227BEFEF59977CC4.quest_subtitle: "Jacarandá + Teca"
 	quest.23A5F5C9BC7B5CC7.quest_subtitle: "Ameixa + Nogueira"
@@ -59,7 +60,7 @@
 	quest.25F4D4A723B298A4.quest_subtitle: "Maçã Red Delicious + Bétula"
 	quest.263FBD9ED2756190.quest_subtitle: "Nogueira + Coco"
 	quest.268768465119632A.quest_subtitle: "Álamo + Amieiro"
-	quest.289B30DAC960BFF2.quest_desc: [" "]
+	quest.289B30DAC960BFF2.quest_desc: ["Esses itens podem ser encontrados em baús dentro das Cidades do End."]
 	quest.289B30DAC960BFF2.quest_subtitle: "Palmeira Asai + Almas do Arcanus Proibido"
 	quest.28FB4B9DCC268404.quest_subtitle: "Ameixa + Cereja"
 	quest.291EE514A1602C46.quest_subtitle: "Balsa + Azaleia Florida"
@@ -91,8 +92,8 @@
 	quest.3BD304D851F49EC0.quest_subtitle: "Sabugueiro + Abeto Prateado"
 	quest.419C808FE10DB496.quest_subtitle: "Balsa + Wenge"
 	quest.427B9C6D95885DE2.quest_subtitle: "Maçã Red Delicious + Azaleia Florida"
-	quest.4281BCDCE233F65B.quest_desc: [" "]
-	quest.4281BCDCE233F65B.quest_subtitle: "Bordo Vermelha + Foguetes de Fogos de Artifício + Tentáculo de Warden + Ovo de Geração de Warden"
+	quest.4281BCDCE233F65B.quest_desc: ["Esses itens podem ser encontrados em baús dentro das Cidades Ancestrais."]
+	quest.4281BCDCE233F65B.quest_subtitle: "Bordo Vermelha + Foguetes de Fogos de Artifício + Tentáculo de Warden + Ovo Gerador de Warden"
 	quest.43265FEF45846357.quest_subtitle: "Pomelo + Cidra"
 	quest.44FEE957BD333241.quest_subtitle: "Lima Prateada + Cereja Azeda"
 	quest.4510FD92BACF00FF.quest_subtitle: "Ameixa + Castanha-doce"
